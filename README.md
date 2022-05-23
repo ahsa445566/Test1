@@ -2,9 +2,19 @@
 
 [![CI](https://github.com/ahsa445566/Test1/actions/workflows/ci.yml/badge.svg)](https://github.com/ahsa445566/Test1/actions/workflows/ci.yml)
 
-Testing stuffs
-
+Testing stuff.
 
 ## Overview
 
-this is a test file
+This is a `test` file.
+
+## Build
+
+```shell
+./configure
+make install
+```
+
+## License
+
+[MIT](./LICENSE)
