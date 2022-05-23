@@ -8,13 +8,6 @@ Testing stuff.
 
 This is a `test` file.
 
-## Build
-
-```shell
-./configure
-make install
-```
-
 ## License
 
 [MIT](./LICENSE)
